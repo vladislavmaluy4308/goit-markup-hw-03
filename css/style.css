@@ -83,6 +83,7 @@ div {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .menu-link:hover,
@@ -93,7 +94,6 @@ div {
   display: flex;
   gap: 40px;
   margin-left: 76px;
-  padding: 24px 0;
 }
 
 .header-contacts {
@@ -117,8 +117,6 @@ div {
 .contacts-list {
   display: flex;
   gap: 40px;
-  margin-right: 0 auto;
-  padding: 24px 0;
 }
 .hero {
   background-color: #2e2f42;
@@ -133,8 +131,7 @@ div {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
-  margin: 0 auto;
-  padding-bottom: 48px;
+  margin: 0 auto 48px auto;
 }
 
 .hero-button {
